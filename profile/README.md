@@ -42,4 +42,4 @@ All images live under `ghcr.io/hubpwa/*` and pull anonymously:
 
 ## 🔗 Links
 
-- 🌐 **Install** — https://install.hubpwa.com
+- 🌐 **Install** — https://install.hubpwa.com/bootstrap.sh
