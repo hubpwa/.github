@@ -1,6 +1,6 @@
 <div align="center">
 
-# hubpwa
+# PWA Hub
 
 **Public distribution for the PWA self-hosted stack**
 
